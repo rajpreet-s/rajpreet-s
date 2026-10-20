@@ -80,13 +80,16 @@ Full-stack engineer at **OpenText (Debricked)** focusing on high-throughput secu
 
 ---
 
-### Featured Work
+### Featured Work & Open Source
 
 - **[Vigil — Agentic Incident RCA Engine](https://github.com/rajpreet-s/vigil)**  
   Event-driven system that maps incoming Prometheus/Alertmanager alert storms to service dependency DAGs. Integrates a stateful LangGraph agent with PostgreSQL checkpoints and Slack human-in-the-loop validation to isolate root causes during multi-service cascading failures.
 
-- **[Fortify SCA MCP Server](https://github.com/rajpreet-s)**  
-  Go-based Model Context Protocol server integrated into the production Debricked CLI, letting AI agents (Cursor, Copilot) inspect dependency policy compliance pre-installation with minimal token overhead.
+- **[debricked/fortify-sca-mcp](https://github.com/debricked/fortify-sca-mcp)**  
+  Go-based Model Context Protocol server integrated into the production Debricked scanning ecosystem, allowing IDE coding agents (Cursor, Copilot) to evaluate dependency policy compliance before installation with minimal token overhead.
+
+- **[debricked/cli](https://github.com/debricked/cli)**  
+  Contributed authentication context propagation, enhanced callback handlers, and multi-package URL policy inspection workflows to Debricked's open-source dependency scanning engine.
 
 - **Malware Early Warning Pipeline**  
   Event-driven security notification pipeline that flags compromised packages and alerts affected downstream users without requiring project rescans.
