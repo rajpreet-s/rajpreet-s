@@ -82,7 +82,7 @@ Full-stack engineer at **OpenText (Debricked)** focusing on high-throughput secu
 
 ### Featured Work & Open Source
 
-- **[Vigil — Agentic Incident RCA Engine](https://github.com/rajpreet-s/vigil)**  
+- **[Vigil - Agentic Incident RCA Engine](https://github.com/rajpreet-s/vigil)**  
   Event-driven system that maps incoming Prometheus/Alertmanager alert storms to service dependency DAGs. Integrates a stateful LangGraph agent with PostgreSQL checkpoints and Slack human-in-the-loop validation to isolate root causes during multi-service cascading failures.
 
 - **[debricked/fortify-sca-mcp](https://github.com/debricked/fortify-sca-mcp)**  
